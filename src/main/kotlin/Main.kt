@@ -670,4 +670,5 @@ fun main() {
     val mew = mapOf(
         "PSÍQUICO" to listOf("VENENO", "LUTADOR")
     )
+    println()
 }
