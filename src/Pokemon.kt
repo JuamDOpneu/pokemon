@@ -990,7 +990,7 @@ fun main() {
         "PSIQUICO" to listOf("LUTADOR", "VENENO"),
         "NIVEL" to 200,
         "ATAQUE" to 110,
-        "DEFESA" to 90,
+        "DEFESA" to 85,
     )
 
     // tela de inicio
